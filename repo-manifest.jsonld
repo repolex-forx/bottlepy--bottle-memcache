@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bottlepy/bottle-memcache/commit/1d4ed714ccb401c3094f120d64b1427fd255e25f",
       "git:hexsha": "1d4ed714ccb401c3094f120d64b1427fd255e25f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:46:43.675765+00:00"
     }
   ]
 }
