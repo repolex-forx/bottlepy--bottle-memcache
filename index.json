@@ -1,0 +1,11 @@
+{
+  "org": "bottlepy",
+  "repo": "bottle-memcache",
+  "versions": [
+    {
+      "commit": "1d4ed714ccb401c3094f120d64b1427fd255e25f",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:46:43.676259+00:00"
+    }
+  ]
+}
