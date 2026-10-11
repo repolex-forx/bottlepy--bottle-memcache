@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "bottlepy",
+  "repo": "bottle-memcache",
+  "versions": [
+    {
+      "commit": "1d4ed714ccb401c3094f120d64b1427fd255e25f",
+      "parsed_at": "2026-10-11T07:44:30.901695+00:00",
+      "filetree": "filetree/1d4ed714ccb401c3094f120d64b1427fd255e25f.nq.gz",
+      "blobs": [
+        "blob/8b7a409c5f59ed83b1346e35cf3d6230449732b9.nq.gz",
+        "blob/b917afbbdd4e1c4f16ab0ef920a1e74af8e024b9.nq.gz",
+        "blob/d546de17222d2ad492abb8375cb59d2c3c3207bc.nq.gz",
+        "blob/526f7b4344b6ed7912669654697e89ed9a91c92b.nq.gz",
+        "blob/43d268a36f446e3e2cd1f349e49f54818b9cd85b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
